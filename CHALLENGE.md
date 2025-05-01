@@ -1,3 +1,4 @@
+# 1
 # Challenge Faced: Input Shape Mismatch After Preprocessing
 While building a binary classification model using Keras, I encountered the following error during model training:
 
